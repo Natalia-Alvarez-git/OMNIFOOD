@@ -1,8 +1,11 @@
 # OMNIFOOD
 
+Omnifood is an online food delivery service that aims to make healthy eating easy, convenient, and delicious. It has a beautiful, sleek and modern asthetic that is easy for users to understand the culture of Omnifood. 
+
 <img width="1697" alt="omnifood" src="https://user-images.githubusercontent.com/112902224/233241651-6342920c-d82a-47b5-9541-0a8161a8edff.png">
 
-Omnifood is an online food delivery service that aims to make healthy eating easy, convenient, and delicious. It has a beautiful, sleek and modern asthetic that is easy for users to understand the culture of Omnifood. 
+### Live Application
+You can access the live application by following this link: [Omnifood](https://omnifood.dev/) 
 
 ### Features
 * Number of meals delivered last year
